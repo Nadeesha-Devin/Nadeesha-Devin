@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Nadeesha-Devin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Web Designing, UI/UX Designing and Web Development
+- 🌱 I’m currently learning in SLIIT campus and I'm third year Information Technology undergraduate 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- My GitHub Username - Nadeesha-Devin
-- My Student Registration Number - IT20018764
+
 <!---
 Nadeesha-Devin/Nadeesha-Devin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
